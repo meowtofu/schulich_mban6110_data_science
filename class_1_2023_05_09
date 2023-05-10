@@ -1,0 +1,5 @@
+import numpy as np
+import pandas as pd
+
+data = [45, 55, 60, 50, 80, 62, 54, 58, 71, 48]
+
